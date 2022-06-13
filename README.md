@@ -1,6 +1,6 @@
 # Twitter Like Bot
 
-This program likes tweets with the given keyword set
+This program "likes" tweets with the given keyword set
 
 Programming Language : Python 
 
